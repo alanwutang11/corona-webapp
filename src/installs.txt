@@ -1,0 +1,7 @@
+Things installed: 
+
+map: npm install --save react-simple-maps
+material-ui: 
+d3-geo(for map): npm install d3-geo
+react-tooltip: npm install react-tooltip
+d-3 scale: npm install d3-scale
