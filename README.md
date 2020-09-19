@@ -1,6 +1,6 @@
 
 
-### Simple Corona Webapp V1
+## Simple Corona Webapp V1
 
 This is a simple Corona Webapp that displays real time coronavirus data on an interactive US Map. 
 
