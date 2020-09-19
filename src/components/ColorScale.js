@@ -1,11 +1,7 @@
 import React from 'react';
 import {Card, Paper, makeStyles,Typography, CardHeader} from '@material-ui/core'
 
-//TODO: get the number of cases from the thing as a prop, and pass it thru
-//then with those numbers (low and high) put them in a typography
-//align all the shit with the grid
-//figure out the padding
-//once this is done, put it up on resume and github and CONTINUE WORKING ON IT  
+
 
 const useStyles = makeStyles(() => ({
     root: {
