@@ -12,11 +12,11 @@ This is a simple Corona Webapp that displays real time coronavirus data on an in
 
 Highlight mode: 
 Hover over the desired state to get statistics such as number of cases, deaths, etc. 
-![Alt text](/screenShots/Pic1.img?raw=true "Highlight")
+![Alt text](/screenShots/Pic1.png?raw=true "Highlight")
 
 Heat Map: 
 The map filled by county, with a darker orange representing a higher number of cases and a lighter orange representing a lower number. 
-![Alt text](/screenShots/Pic2.img?raw=true "Heat")
+![Alt text](/screenShots/Pic2.png?raw=true "Heat")
 
 ## Technologies used: 
 - Material UI for cards, text, overall layout
