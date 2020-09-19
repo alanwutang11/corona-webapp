@@ -4,10 +4,6 @@ import StateInfo from './components/StateInfo';
 import {fetchData, fetchCountyData} from './api';
 import Header from './components/Header';
 import HeatMap from './components/HeatMap'
-import ColorScale from './components/ColorScale'
-
-
-//the US state is probably not needed, but take that out later
 
 
 class App extends Component {
