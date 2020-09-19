@@ -5,6 +5,8 @@
 
 This is a simple Corona Webapp that displays real time coronavirus data on an interactive US Map. 
 
+Website: https://alanwutang11.github.io/corona-webapp/
+
 - State specific data is retreived from: https://covidtracking.com/data/api
 - County specific data is retreived from: https://covid19-us-api.herokuapp.com/county
 
