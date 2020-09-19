@@ -5,3 +5,4 @@ material-ui:
 d3-geo(for map): npm install d3-geo
 react-tooltip: npm install react-tooltip
 d-3 scale: npm install d3-scale
+react gradient: npm install react-gradient
